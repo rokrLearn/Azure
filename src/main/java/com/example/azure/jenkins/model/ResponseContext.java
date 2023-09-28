@@ -6,7 +6,7 @@ public class ResponseContext {
 
 	private boolean success;
 	private Date currentTimeStamp;
-	private String version = "1.2.0";
+	private String version = "1.3.0";
 	
 	public boolean getSuccess() {
 		return success;
